@@ -6,6 +6,10 @@ const ProductCard = () => {
       <div className='p-3'>
         <img src="/images/shoes.png" alt="Picture of shoes" />
       </div>
+      <div className='p-3 text-main font-medium text-lg'>
+        <p>Running Shoes</p>
+        <p>$500</p>
+      </div>
     </div>
   )
 }
